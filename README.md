@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg" />
+    <img src="sky.svg" width="900" alt="" />
+  </picture>
+</div>
+
 ## Hi, I'm Letizia 👋
  
 I'm based in Amsterdam and I just finished a BSc in Artificial Intelligence. Before that, I studied Communication Sciences in Switzerland, and that mix still shows up in how I work: I like building things, but I also like being able to explain them to someone who doesn't care about the technical side.
@@ -40,3 +47,10 @@ Python · R · SQL · PyTorch · Scikit-learn · Pandas · NumPy · Hugging Face
 ### Find me elsewhere
  
 [LinkedIn](https://linkedin.com/in/letizia-ida-bianchi)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg" />
+    <img src="garden-footer.svg" width="900" alt="" />
+  </picture>
+</div>
