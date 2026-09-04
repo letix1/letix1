@@ -25,11 +25,15 @@ Here are some ideas to get you started:
 I'm based in Amsterdam and I just finished a BSc in Artificial Intelligence. Before that, I studied Communication Sciences in Switzerland, and that mix still shows up in how I work: I like building things, but I also like being able to explain them to someone who doesn't care about the technical side.
 
 
-### What I'm into
- 
-- Python, machine learning, data analysis
-- Formula 1, more specifically aerodynamics
-- Currently learning Dutch, slowly but surely
+### About me
+
+✨If I can take it apart, I will take it apart.✨
+
+How your email probably finds me:
+- Using Python for data analysis, allegedly for work, actually because I have the need to know
+- Watching Formula 1, especially for the aerodynamics
+- Reading about physics, because I like being confused, or thrillers, because I will beat the detective to the truth
+- Currently learning Dutch, slowly but surely (mostly slowly)
 
 
 ### Featured projects
