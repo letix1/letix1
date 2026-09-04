@@ -32,11 +32,9 @@ I'm based in Amsterdam and I just finished a BSc in Artificial Intelligence. Bef
 - Currently learning Dutch, slowly but surely
 
 
-### Featured project
+### Featured projects
  
-**[F1 Strategy Optimizer](https://github.com/letix1/f1-strategy-optimizer)**
-
-A Monte Carlo simulation for F1 race strategy, built on real timing data from the FastF1 API. It models tire degradation, simulates safety cars, and tries to find optimal pit stop strategies, then checks itself against what actually happened in real races. Also includes a small Streamlit dashboard to play around with strategies interactively.
+- [![F1 Strategy Optimizer](https://img.shields.io/badge/-F1%20Strategy%20Optimizer-E10600?style=flat-square&logo=github&logoColor=white&labelColor=000000)](https://github.com/letix1/f1-strategy-optimizer) – A Monte Carlo simulation for F1 race strategy, built on real timing data from the FastF1 API. It models tire degradation, simulates safety cars, and tries to find optimal pit stop strategies, then checks itself against what actually happened in real races. Also includes a small Streamlit dashboard to play around with strategies interactively.
 
 
 ### Languages and Tools
